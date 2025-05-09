@@ -16,6 +16,26 @@ to the next version.
 4. 'repository Area' --> This area actually contains the details of all your previous registered
 versions. And the files in this area, git already manages them and knows their version history.
 
+
 5. 'git add <file>' --> Moves file from working area to staging area.
 
+
 6. 'git rm --cached <file>' --> Moves file back from staging area to working area.
+
+
+7. 'commit' --> Commit is a particular version of the project. It captures a snapshot of the
+project's staged changes and creates a version of it.
+
+
+8. 'git commit' --> Registers staged changes to a commit.
+
+
+9. 'git log' --> Lists down all the commits of the repository. If you want to exit out of git log
+prompt, press 'q'.
+
+
+10. 'git restore <file>' --> It removes all file changes from the staging area to be commited.
+This can be useful if we did some dirty piece of code and now no more want it. Instead of deleting 
+every change line by line, we can restore it or you can say restore the last clean version of the file.
+
+40 min
