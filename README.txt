@@ -40,4 +40,6 @@ every change line by line, we can restore it or you can say restore the last cle
                         or
 Removes changes from the working area
 
-40 min
+
+11. 'git restore --staged <file>' --> It removes file changes from staging are to the working area.
+This only works when changes are in working area
