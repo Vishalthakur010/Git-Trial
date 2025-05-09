@@ -71,3 +71,6 @@ note : The name of the remote connection is always used to establish communicati
 20. `git add <file> <file> <file>` --> Adds multiple file changes together in the staging area.
 
 21. `git add .` --> add all file changes from working area to staging area.
+
+22. `git pull <remoteName> <branchName>` --> downloads latest changes from the branch of the mentioned 
+remote to your local repo.
