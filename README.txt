@@ -37,5 +37,7 @@ prompt, press 'q'.
 10. 'git restore <file>' --> It removes all file changes from the staging area to be commited.
 This can be useful if we did some dirty piece of code and now no more want it. Instead of deleting 
 every change line by line, we can restore it or you can say restore the last clean version of the file.
+                        or
+Removes changes from the working area
 
 40 min
